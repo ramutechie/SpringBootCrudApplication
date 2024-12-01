@@ -241,7 +241,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-[Ramu Donikana](https://github.com/ramu-donikana)
+[Ramu Donikana](https://github.com/ramutechie)
 
 ---
 
